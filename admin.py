@@ -1,1 +1,1 @@
-print('admin')
+print('admin add')
