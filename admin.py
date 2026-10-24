@@ -1,1 +1,2 @@
-print('admin add')
+a={12,34,64,56}
+print(a)
